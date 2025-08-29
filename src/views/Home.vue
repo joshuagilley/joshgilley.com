@@ -5,26 +5,26 @@
       <div class="container mx-auto text-center">
         <div class="mb-8">
           <h1 class="text-6xl font-bold text-gray-900 dark:text-white mb-6">
-            Josh Gilley
+            Joshua Gilley
           </h1>
           <p class="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-            Full-Stack Developer & Creative Technologist
+            Full-Stack Software Engineer with over 5 years of experience building scalable, user-focused applications in health tech and logistics environments
           </p>
           <div class="flex flex-wrap justify-center gap-4 mb-12">
             <span class="px-4 py-2 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full text-sm font-medium">
-              Vue.js
-            </span>
-            <span class="px-4 py-2 bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200 rounded-full text-sm font-medium">
               React
             </span>
-            <span class="px-4 py-2 bg-purple-100 dark:bg-purple-900 text-purple-800 dark:text-purple-200 rounded-full text-sm font-medium">
+            <span class="px-4 py-2 bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200 rounded-full text-sm font-medium">
               TypeScript
             </span>
-            <span class="px-4 py-2 bg-yellow-100 dark:bg-yellow-900 text-yellow-800 dark:text-yellow-200 rounded-full text-sm font-medium">
+            <span class="px-4 py-2 bg-purple-100 dark:bg-purple-900 text-purple-800 dark:text-purple-200 rounded-full text-sm font-medium">
               Node.js
             </span>
-            <span class="px-4 py-2 bg-red-100 dark:bg-red-900 text-red-800 dark:text-red-200 rounded-full text-sm font-medium">
+            <span class="px-4 py-2 bg-yellow-100 dark:bg-yellow-900 text-yellow-800 dark:text-yellow-200 rounded-full text-sm font-medium">
               Python
+            </span>
+            <span class="px-4 py-2 bg-red-100 dark:bg-red-900 text-red-800 dark:text-red-200 rounded-full text-sm font-medium">
+              AWS
             </span>
           </div>
         </div>
@@ -62,7 +62,7 @@
             </div>
             <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">Frontend Development</h3>
             <p class="text-gray-600 dark:text-gray-300">
-              Building responsive, accessible web applications with modern frameworks like Vue.js and React.
+              Building responsive, accessible web applications with React, TypeScript, and modern CSS frameworks.
             </p>
           </div>
           
@@ -74,7 +74,7 @@
             </div>
             <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">Backend Development</h3>
             <p class="text-gray-600 dark:text-gray-300">
-              Creating robust APIs and server-side logic with Node.js, Python, and modern databases.
+              Creating robust APIs and server-side logic with Node.js, Python, and modern databases including PostgreSQL and AWS services.
             </p>
           </div>
           
@@ -84,30 +84,12 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
               </svg>
             </div>
-            <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">Creative Solutions</h3>
+            <h3 class="text-xl font-semibold text-gray-900 dark:text-white mb-4">Health Tech Solutions</h3>
             <p class="text-gray-600 dark:text-gray-300">
-              Designing innovative user experiences and creative technical solutions for complex problems.
+              Specializing in clinical data visualization tools, permissions systems, and scalable applications that improve healthcare workflows.
             </p>
           </div>
         </div>
-      </div>
-    </section>
-
-    <!-- CTA Section -->
-    <section class="py-20">
-      <div class="container mx-auto px-4 text-center">
-        <h2 class="text-4xl font-bold text-gray-900 dark:text-white mb-6">
-          Ready to Build Something Amazing?
-        </h2>
-        <p class="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
-          Let's collaborate on your next project. I'm always excited to work on new challenges and bring ideas to life.
-        </p>
-        <router-link 
-          to="/contact" 
-          class="inline-block px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg text-lg transition-colors duration-200"
-        >
-          Start a Conversation
-        </router-link>
       </div>
     </section>
   </div>

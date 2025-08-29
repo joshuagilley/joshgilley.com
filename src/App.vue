@@ -46,7 +46,7 @@ onMounted(() => {
     
     <footer class="bg-gray-50 dark:bg-gray-800 py-8 mt-16">
       <div class="container mx-auto px-4 text-center text-gray-600 dark:text-gray-400">
-        © 2024 Josh Gilley. Built with Vue 3 + TypeScript + Tailwind CSS.
+        © 2024 Joshua Gilley. Full-Stack Software Engineer. Built with Vue 3 + TypeScript + Tailwind CSS.
       </div>
     </footer>
   </div>
