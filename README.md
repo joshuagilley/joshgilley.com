@@ -1,4 +1,4 @@
-# Josh Gilley Portfolio
+# Joshua Gilley Portfolio
 
 A modern, responsive portfolio website built with Vue.js 3, TypeScript, and Tailwind CSS. Inspired by the creative design aesthetic of [p5aholic.me](https://p5aholic.me/).
 
@@ -156,4 +156,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by Josh Gilley
+Built with ❤️ by Joshua Gilley
