@@ -13,7 +13,7 @@
             Joshua Gilley
           </h1>
           <h2 class="text-2xl md:text-3xl text-blue-600 dark:text-blue-400 font-medium mb-8">
-            Full Stack Software Engineer
+            Software Engineer
           </h2>
           <p class="text-xl text-gray-600 dark:text-gray-300 leading-relaxed max-w-3xl">
             I build scalable, user-focused applications in health tech and logistics environments. 
